@@ -1,4 +1,4 @@
-# mobile_app_group_project
+# PhuQuocGift_mobile
 
 A new Flutter project.
 
